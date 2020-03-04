@@ -1,3 +1,5 @@
+# This app is just a frontend todo list management
+# It uses https://jsonplaceholder.typicode.com/ (API)to mimick backend 
 # v1
 
 ## Project setup
